@@ -16,5 +16,5 @@ jobs:
       with:
         server: ftp.xylenetech.online
         username: mandal@xylenetech.online
-        password: Xylenetech@2022
+        password: mandal@2022
     
