@@ -16,5 +16,5 @@ jobs:
       with:
         server: ftp.xylenetech.online
         username: mondal@xylenetech.online
-        password: ${{ secrets.ftp_password }}
+        password: mondal@2022
     
