@@ -15,6 +15,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
         server: ftp.xylenetech.online
-        username: mondal@xylenetech.online
-        password: mondal@2022
+        username: mandal@xylenetech.online
+        password: Xylenetech@2022
     
