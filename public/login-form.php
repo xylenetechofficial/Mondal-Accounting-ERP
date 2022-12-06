@@ -71,7 +71,7 @@ $res_logo = $db->getResult();
         </div>
         <div class="box box-info col-md-12">
             <div class="box-header with-border">
-                <h3 class="box-title">Administrator Login</h3>
+                <!-- <h3 class="box-title">Administrator Login</h3> -->
                 <center>
                     <div class="msg"><?php echo isset($error['failed']) ? $error['failed'] : ''; ?></div>
                 </center>
